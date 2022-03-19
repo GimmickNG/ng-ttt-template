@@ -15,4 +15,4 @@ Whenever an empty line between two paragraphs is intended (which is most of the 
 
 ## Copyright
 
-I do not own the images. The .adoc "template" (if you can call it that) is licensed under MIT.
+I do **not** own the images, and those are intended for personal use only. The .adoc "template" (if you can call it that) however is licensed under MIT.
