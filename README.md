@@ -12,3 +12,7 @@ Since this template is designed to take the output from VS Code's AsciiDoc Previ
 {sp} +
 
 Whenever an empty line between two paragraphs is intended (which is most of the time). There might be other ways to handle this more gracefully but I haven't tried them out yet.
+
+## Copyright
+
+I do not own the images. The .adoc "template" (if you can call it that) is licensed under MIT.
